@@ -17,7 +17,12 @@
   transition: .2s ease-in-out .2s;
   border-radius: 4px;
 }
+.button1 {
+  background-color: #36393f;
+  border: 2px #000000;
+}
 .button1:hover {
   transform: scale(1.25);
   background-color: #444850;
+  border: 4px #000000;
 }
