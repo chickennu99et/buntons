@@ -1,0 +1,23 @@
+.body {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+}
+.button {
+  border: none;
+  color: #36393f;
+  background-color: #ffffff;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: .2s ease-in-out .2s;
+  border-radius: 4px;
+}
+.button1:hover {
+  transform: scale(1.25);
+  background-color: #444850;
+}
